@@ -1,0 +1,276 @@
+[
+    {
+        "name": "floor",
+        "src": "../../public/images/foreground/floor.svg",
+        "alt": "floor",
+        "className": "floor",
+        "style_left": "0",
+        "style_top": "81.5",
+        "zIndex": "1",
+        "width": "100%"
+    },
+
+    {
+        "name": "wall",
+        "src": "../../public/images/foreground/Wall.svg",
+        "alt": "wall",
+        "className": "wall",
+        "style_left": "0",
+        "style_top": "0",
+        "zIndex": "1",
+        "width": "100%"
+    },
+
+    {
+        "name": "clock",
+        "src": "../../public/images/foreground/Clock.svg",
+        "alt": "clock",
+        "className": "clock",
+        "style_left": "85",
+        "style_top": "2",
+        "zIndex": "2",
+        "width": "14vh"
+    },
+
+    {
+        "name": "board",
+        "src": "../../public/images/foreground/Board.svg",
+        "alt": "board",
+        "className": "board",
+        "style_left": "56",
+        "style_top": "20",
+        "zIndex": "2",
+        "width": "72vh"
+    },
+
+    {
+        "name": "square",
+        "src": "../../public/images/foreground/Square_after.svg",
+        "alt": "square",
+        "className": "square",
+        "style_left": "65",
+        "style_top": "49",
+        "zIndex": "2",
+        "width": "15.5vh"
+    },
+
+    {
+        "name": "ads",
+        "src": "../../public/images/foreground/Ads.svg",
+        "alt": "ads",
+        "className": "ads",
+        "style_left": "132.5",
+        "style_top": "20",
+        "zIndex": "2",
+        "width": "15.5vh"
+    },
+
+    {
+        "name": "shelf",
+        "src": "../../public/images/foreground/Shelf.svg",
+        "alt": "shelf",
+        "className": "shelf",
+        "style_left": "10",
+        "style_top": "17",
+        "zIndex": "3",
+        "width": "23vh"
+    },
+
+    {
+        "name": "flower_on_the_shelf",
+        "src": "../../public/images/foreground/Flower_on_the_shelf.svg",
+        "alt": "flower_on_the_shelf",
+        "className": "flower_on_the_shelf",
+        "style_left": "12",
+        "style_top": "2.1",
+        "zIndex": "2",
+        "width": "7.5vh"
+    },
+
+    {
+        "name": "books_on_the_shelf",
+        "src": "../../public/images/foreground/Books_on_the_shelf.svg",
+        "alt": "books_on_the_shelf",
+        "className": "books_on_the_shelf",
+        "style_left": "21",
+        "style_top": "11",
+        "zIndex": "2",
+        "width": "11.5vh"
+    },
+
+    {
+        "name": "picture_of_the_World",
+        "src": "../../public/images/foreground/Picture_of_the_World.svg",
+        "alt": "picture_of_the_World",
+        "className": "picture_of_the_World",
+        "style_left": "9",
+        "style_top": "23",
+        "zIndex": "2",
+        "width": "24.8vh"
+    },
+
+    {
+        "name": "table_do",
+        "src": "../../public/images/foreground/Table_do.svg",
+        "alt": "table_do",
+        "className": "table_do",
+        "style_left": "3",
+        "style_top": "47",
+        "zIndex": "2",
+        "width": "47vh"
+    },
+
+    {
+        "name": "cactus",
+        "src": "../../public/images/foreground/Cactus.svg",
+        "alt": "cactus",
+        "className": "cactus",
+        "style_left": "20",
+        "style_top": "51",
+        "zIndex": "3",
+        "width": "5vh"
+    },
+
+    {
+        "name": "books_on_the_table",
+        "src": "../../public/images/foreground/Books_on_the_table.svg",
+        "alt": "books_on_the_table",
+        "className": "books_on_the_table",
+        "style_left": "36",
+        "style_top": "51.5",
+        "zIndex": "3",
+        "width": "10vh"
+    },
+
+    {
+        "name": "teacher_do",
+        "src": "../../public/images/foreground/Teacher_do.svg",
+        "alt": "teacher_do",
+        "className": "teacher_do",
+        "style_left": "27",
+        "style_top": "28",
+        "zIndex": "4",
+        "width": "21vh"
+    },
+
+    {
+        "name": "part_doOne",
+        "src": "../../public/images/foreground/Part_do.svg",
+        "alt": "part_do one",
+        "className": "part_do one",
+        "style_left": "44",
+        "style_top": "70",
+        "zIndex": "5",
+        "width": "42vh"
+    },
+
+    {
+        "name": "part_doTwo",
+        "src": "../../public/images/foreground/Part_do.svg",
+        "alt": "part_do two",
+        "className": "part_do two",
+        "style_left": "100",
+        "style_top": "70",
+        "zIndex": "5",
+        "width": "42vh"
+    },
+
+    {
+        "name": "backpack_one",
+        "src": "../../public/images/foreground/Backpack_one.svg",
+        "alt": "backpack_one",
+        "className": "backpack_one",
+        "style_left": "34",
+        "style_top": "85",
+        "zIndex": "4",
+        "width": "14.5vh"
+    },
+
+    {
+        "name": "backpack_two",
+        "src": "../../public/images/foreground/Backpack_two.svg",
+        "alt": "backpack_two",
+        "className": "backpack_two",
+        "style_left": "135",
+        "style_top": "85",
+        "zIndex": "4",
+        "width": "14.5vh"
+    },
+
+    {
+        "name": "trashcan",
+        "src": "../../public/images/foreground/Trashcan.svg",
+        "alt": "trashcan",
+        "className": "trashcan",
+        "style_left": "137",
+        "style_top": "72",
+        "zIndex": "3",
+        "width": "10.5vh"
+    },
+
+    {
+        "name": "box_is_on_the_floorOne",
+        "src": "../../public/images/foreground/Box_is_on_the_floor.svg",
+        "alt": "box_is_on_the_floor one",
+        "className": "box_is_on_the_floor one",
+        "style_left": "155",
+        "style_top": "92",
+        "zIndex": "3",
+        "width": "18vh"
+    },
+
+    {
+        "name": "box_is_on_the_floorTwo",
+        "src": "../../public/images/foreground/Box_is_on_the_floor.svg",
+        "alt": "box_is_on_the_floor two",
+        "className": "box_is_on_the_floor two",
+        "style_left": "158",
+        "style_top": "85.3",
+        "zIndex": "3",
+        "width": "18vh"
+    },
+
+    {
+        "name": "locker",
+        "src": "../../public/images/foreground/locker.svg",
+        "alt": "locker",
+        "className": "locker",
+        "style_left": "153",
+        "style_top": "36",
+        "zIndex": "2",
+        "width": "22.3vh"
+    },
+
+    {
+        "name": "books_in_the_locker",
+        "src": "../../public/images/foreground/Books_in_the_locker.svg",
+        "alt": "books_in_the_locker",
+        "className": "books_in_the_locker",
+        "style_left": "161",
+        "style_top": "50.4",
+        "zIndex": "2",
+        "width": "11vh"
+    },
+
+    {
+        "name": "boxes_are_in_the_locker",
+        "src": "../../public/images/foreground/Boxes_are_in_the_locker.svg",
+        "alt": "boxes_are_in_the_locker",
+        "className": "boxes_are_in_the_locker",
+        "style_left": "161",
+        "style_top": "40",
+        "zIndex": "2",
+        "width": "12.5vh"
+    },
+
+    {
+        "name": "globe",
+        "src": "../../public/images/foreground/Globe.svg",
+        "alt": "globe",
+        "className": "globe",
+        "style_left": "157",
+        "style_top": "18.5",
+        "zIndex": "2",
+        "width": "14.5vh"
+    }
+]

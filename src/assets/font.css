@@ -1,0 +1,11 @@
+@font-face{
+    font-family: "Czizh";
+    src: url(../../public/fonts/ofont.ru_Czizh.ttf);
+    font-style: normal;
+}
+
+@font-face{
+    font-family: "AubreyPro";
+    src: url(../../public/fonts/AubreyPro.otf);
+    font-style: normal;
+}
